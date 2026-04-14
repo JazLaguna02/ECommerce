@@ -23,3 +23,10 @@ This project includes user authentication, password hashing with bcrypt, and pro
 
 ## What I Learned
 This project helped me practice backend data modeling, authentication basics, and working with MongoDB in a Node.js environment.
+
+## Example Output
+
+Processed: 1370 links  
+Alive: 1042  
+Dead: 328  
+Execution Time: 18.6 seconds
